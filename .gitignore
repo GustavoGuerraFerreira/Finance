@@ -1,62 +1,62 @@
-# # Arquivos e diretórios específicos do Django
-# __pycache__/
-# *.pyc
-# *.pyo
-# *.db
-# *.sqlite3
-# *.log
-# *.pot
-# *.potx
-# *.mo
-# *.po
-# *.egg-info/
-# *.py[cod]
-# *.swp
+# Arquivos e diretórios específicos do Django
+__pycache__/
+*.pyc
+*.pyo
+*.db
+*.sqlite3
+*.log
+*.pot
+*.potx
+*.mo
+*.po
+*.egg-info/
+*.py[cod]
+*.swp
 
-# # Arquivos de configuração
-# *.settings
-# *.ini
-# *.env
-# *.env.*
-# *.conf
-# *.config
+# Arquivos de configuração
+*.settings
+*.ini
+*.env
+*.env.*
+*.conf
+*.config
 
-# # Dependências do ambiente virtual
-# venv/
-# .env
+# Dependências do ambiente virtual
+venv/
+.env
 
-# # Arquivos gerados
-# *.pyc
-# *.pyo
-# *.db
-# *.sqlite3
-# *.log
+# Arquivos gerados
+*.pyc
+*.pyo
+*.db
+*.sqlite3
+*.log
 
-# # Arquivos de mídia e uploads (geralmente armazenados em /media/)
-# media/
-# uploads/
-# static/uploads/
+# Arquivos de mídia e uploads (geralmente armazenados em /media/)
+media/
+uploads/
+static/uploads/
 
-# # Arquivos de mídia do Django Debug Toolbar
-# .djdt
+# Arquivos de mídia do Django Debug Toolbar
+.djdt
 
-# # Arquivos gerados pelo IDE ou editor
-# .idea/
-# .vscode/
-# *.code-workspace
+# Arquivos gerados pelo IDE ou editor
+.idea/
+.vscode/
+*.code-workspace
 
-# # Cache de arquivos
-# __pycache__/
-# .cache/
+# Cache de arquivos
+__pycache__/
+.cache/
 
-# # Arquivos de registro e saída
-# *.log
-# logs/
-# log/
+# Arquivos de registro e saída
+*.log
+logs/
+log/
 
-# # Outros arquivos e diretórios que você deseja ignorar
-# arquivo_secreto.txt
-# diretorio_temporario/
+# Outros arquivos e diretórios que você deseja ignorar
+arquivo_secreto.txt
+diretorio_temporario/
 
-# # Ignorar o arquivo .gitignore em si, se necessário
-# !.gitignore
+# Ignorar o arquivo .gitignore em si, se necessário
+!.gitignore
